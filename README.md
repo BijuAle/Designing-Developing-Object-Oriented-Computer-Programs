@@ -6,5 +6,6 @@ In games that use the element of randomness to the gameplay, often times, regula
 - Simulate hyper-dimensional dices. Notation:
   - [x]d[y], x: no. of dices, y: no. of faces
   - [x]d[y]-[z], z: remove cards
+- Generate statistically favorable dice roll-card combinations (Discrete Uniform Distribution).
 - Peek removed, dealt, & impending cards.
 - View combinations & frequency graph.
